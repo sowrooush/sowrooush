@@ -81,14 +81,6 @@ final class Sowrooush extends Entrepreneur
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sowrooush&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sowrooush&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=003b00&hide_border=true&custom_title=sowrooush@apexmine:~%24%20git%20log%20--graph" />
-</p>
-
-<p align="center">
   <img width="95%" src="https://raw.githubusercontent.com/sowrooush/sowrooush/output/github-snake-dark.svg" alt="snake eating contributions"/>
 </p>
 
